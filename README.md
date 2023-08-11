@@ -29,7 +29,7 @@ I'm a full-time student focusing gaining as much coding and computer-related ski
 | <a href="https://github.com/n-donofrio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=n-donofrio&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/n-donofrio/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-donofrio&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### 🤳 Connect with me: 
+### 🤳 Connect with me 
 <a href="https://www.linkedin.com/in/nicholas-donofrio-000119200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHt2izW8hRyCukSIzLjpEEw%3D%3D">
   <img align="left" alt="Nicholas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" />
 </a>

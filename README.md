@@ -11,12 +11,6 @@ I'm a full-time student focusing gaining as much coding and computer-related ski
 
 </ul>
 
-### 🤳 Connect with me: 
-<a href="https://www.linkedin.com/in/nicholas-donofrio-000119200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHt2izW8hRyCukSIzLjpEEw%3D%3D">
-  <img align="left" alt="Nicholas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" />
-</a>
-
-<a href="mailto:nickdoncomputers@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 
@@ -30,3 +24,11 @@ I'm a full-time student focusing gaining as much coding and computer-related ski
 <br />
 
 #
+
+### 🤳 Connect with me: 
+<a href="https://www.linkedin.com/in/nicholas-donofrio-000119200?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHt2izW8hRyCukSIzLjpEEw%3D%3D">
+  <img align="left" alt="Nicholas" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" />
+</a>
+
+<a href="mailto:nickdoncomputers@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+

@@ -3,7 +3,7 @@
 
 **`Information Technology (IT) Student`**
 
-I'm a full-time student focusing gaining as much coding and computer-related skills as possible for my future employers. I am a System Administrator with a passion for troubleshooting and learning programming.
+I'm a full-time student focusing on gaining as much coding and computer-related skills as possible for my future employers. I am a System Administrator with a passion for troubleshooting and learning programming.
 <ul>
     <li> I'm currently <b>learning Java</b>
     <li> Ask me about <b>Windows</b>
